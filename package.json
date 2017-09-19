@@ -1,6 +1,6 @@
 {
-  "name": "corsproxy-https",
-  "description": "standalone CORS https-only proxy",
+  "name": "corsproxy-https-insecure",
+  "description": "standalone CORS https-only proxy which supports untrusted certificates",
   "version": "1.5.2",
   "main": "./index.js",
   "author": {
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/larrysalibra/CORS-Proxy"
+    "url": "https://github.com/vashibhavin/CORS-Proxy-https"
   },
   "license": "MIT"
 }
